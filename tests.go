@@ -22,7 +22,5 @@ func (p Person) Speak() {
 }
 
 func main() {
-	p := Person{Name: "Charlie"}
-	saySomething(p) // Works because Person has Speak() method
-	p.Speak() // Directly calling the Speak method
+	println("Hello, World!")
 }

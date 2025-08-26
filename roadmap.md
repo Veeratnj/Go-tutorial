@@ -40,17 +40,17 @@ Where you learn how to build concurrent, modular, and efficient programs.
   * `time`, `strings`, `strconv`, `math`, `sort`
 * **Concurrency**
   * Goroutines
-  * Channels (unbuffered & buffered)
-  * `select` statement
-  * Worker pools
-* **Sync & Coordination**
+  * Channels (unbuffered & buffered)--
+  * `select` statement---
+  * Worker pools---
+* **Sync & Coordination---**
   * `sync.Mutex`, `sync.WaitGroup`
   * `sync.Once`, `sync.Map`
   * Context cancellation (`context` package)
 * **File & Network I/O**
-  * Reading/writing files
-  * HTTP client & server (`net/http`)
-  * JSON encoding/decoding
+  * Reading/writing files-
+  * HTTP client & server (`net/http`)----
+  * JSON encoding/decoding--
 
 ---
 
